@@ -1,4 +1,10 @@
-<h2 align="center">Assalam Walaikum. My name is Muhammad Faham and I'm a Web Developer from Pakistan.</h2>
+<h2 align="center">Assalam Walaikum. My name is Muhammad Faham and I'm a passionate beginner front-end developer learning to bring designs to life through code. Currently, I’m focused on mastering HTML, CSS, and JavaScript, and diving into responsive design techniques.
+
+🔧 Currently Exploring:
+
+Building projects with HTML, CSS, and JavaScript
+Responsive layouts with CSS Flexbox and Grid
+Basics of front-end frameworks like Bootstrap and React.</h2>
 
 ###
 
