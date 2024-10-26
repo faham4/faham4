@@ -38,7 +38,7 @@
   <a href="https://www.instagram.com/faham_abbasi/" rel="nofollow" style="color: rgb(206, 167, 212); text-decoration: underline;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo" style="max-width: 100%;">
   </a>
-  <a href="muhammadfahamabbasi@gmail.com">
+  <a href="fahambbs@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo" style="max-width: 100%;">
   </a>
   <a href="https://www.linkedin.com/in/muhammad-faham-64a459334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" rel="nofollow">
