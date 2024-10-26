@@ -1,5 +1,5 @@
 
-<p dir="auto"><animated-image data-catalyst=""><a href="https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_640.jpg" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<p dir="auto"><animated-image data-catalyst=""><a href="https://www.deviantart.com/pixeljeff/art/Coding-990517671" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://rishavchanda.io/" target="_blank">
 <h1 align="center" class="heading-element" dir="auto">Assalamualaikum My name is Muhammad Faham , I'm a passionate beginner front-end developer learning to bring designs to life through code.</h1>
