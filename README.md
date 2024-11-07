@@ -1,9 +1,7 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://faham4.io)
 <h1 align="center">Hi 👋, I'm Muhammad Faham</h1>
 <h3 align="center">>Assalamualaikum My name is Muhammad Faham , I'm a passionate beginner front-end developer learning to bring designs to life through code.</h3>
- <a href="https://syedmuhammadarsalanshah.github.io/Portfolio/" target="_blank">
-    <img src="https://static.wixstatic.com/media/a27d24_aab4b1abedb64829a86c6066b83cbda9~mv2.gif" height="80" alt="Read More" />
-  </a>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faham4&label=Profile%20views&color=0e75b6&style=flat" alt="faham4" /> </p>
