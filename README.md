@@ -11,7 +11,7 @@
 
        
 
-- 🌱 I’m currently learning **.netcore**
+- 🌱 I’m currently learning **angular js**
 
 - 💬 Ask me about **Web Developer , Front-end-developer**
 
