@@ -11,9 +11,9 @@
 
        
 
-- 🌱 I’m currently learning **angular js**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Web Developer , Front-end-developer**
+- 💬 Ask me about **Web Developer , Front-end-developer, Wordpress developer**
 
 - 📫 How to reach me **muhammadfahamabbasi@gmail.com**
 
