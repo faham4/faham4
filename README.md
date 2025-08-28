@@ -1,6 +1,6 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://faham4.io)
 <h1 align="center">Hi 👋, I'm Muhammad Faham</h1>
-<h3 align="center">>Assalamualaikum My name is Muhammad Faham , I'm a passionate beginner front-end developer learning to bring designs to life through code.</h3>
+<h3 align="center">>Assalamualaikum My name is Muhammad Faham , I am proficient in HTML, CSS, and JavaScript, which enables me to create dynamic and interactive features. I also have practical experience in working with Content Management Systems (CMS) such as WordPress, including development and customization.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
